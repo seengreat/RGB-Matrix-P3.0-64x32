@@ -10,7 +10,7 @@ This product RGB Matrix P3.0-64x32 is on-board 2048 full-color display LEDs with
 Providing open development resources and tutorials  for the use of Raspberry Pi<br>  
 
 ## 1.3、Specifications
-|DIMENSIONS|160mm(Length)*80mm(Width)*15mm(Height)|
+|DIMENSIONS|192mm(Length)*96mm(Width)*15mm(Height)|
 |---------------|-------------------------------------------------|
 |PIXELS|64*32|
 |PITCH|3mm|
@@ -22,7 +22,7 @@ This product RGB Matrix P3.0-64x32 is on-board 2048 full-color display LEDs with
 |POWER SUPPLY|5V/2A|
 |POWER PORT|VH4 header input|
 # Usage
-## 2.1、RGB-Matrix-P2.5-64x32-wiring-as-we-provided
+## 2.1、RGB-Matrix-P3.0-64x32-wiring
 ### 2.1.1、Usage of demo for Raspberry Pi
 This product is mainly used with the main-board of Raspberry Pi, with HUB75 for signal input and output of dot matrix screen. <br>                      
 Definitions of Raspberry Pi and wiring pin of signal input interface:<br>
